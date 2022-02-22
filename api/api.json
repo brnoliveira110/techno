@@ -2,7 +2,7 @@
   "home": {
     "id": "home",
     "titulo": "Techno",
-    "descricao": "Cursos online de UX/UI Design e Front End.",
+    "descricao": "cursos online de UX/UI Design e Front End.",
     "avaliacoes": [
       {
         "nome": "Mariana",
@@ -34,7 +34,7 @@
   },
   "cursos": {
     "id": "cursos",
-    "titulo": "Cursos",
+    "titulo": "cursos",
     "descricao": "Inscreva-se em um dos nossos planos e obtenha acesso completo a todos os nossos cursos.",
     "cursos": [
       {
